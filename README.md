@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-view on bradly0cjw.github.com
+view on bradly0cjw.github.com(https://bradly0cjw.github.com)
 
 You can use the [editor on GitHub](https://github.com/bradly0cjw/bradly0cjw.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
