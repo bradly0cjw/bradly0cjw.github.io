@@ -8,14 +8,6 @@ filename: index
 
 無敵的吧~
 
-## 關於我
-![Pony trot2](img/pony.gif)<br>
-Student<br>
-Pronounce: `he/him`<br>
-Call me `Bradly`,`CyberJyun`,`Jyun`,`Wei`<br>
-Digital Art Beginner<br>
-Now learning `Python`<br>
-
 # 豐功偉業
 
 ## Mi9T/K20 AOD 10 sec Enabler
