@@ -8,8 +8,8 @@ Still work in progress[.](https://linbei9487.github.io)
 
 ## Mi9T/K20 AOD 10 sec Enabler
 
-[Click here](https://linbei9487.github.io/AAS)
+[Click here](https://bradly0cjw.github.io/Mi9T-K20-AOD-10-sec-enabler)
 
 ## MI Headset Volume Control Enabler
 
-[Click here](https://linbei9487.github.io/AAS)
+[Click here](https://bradly0cjw.github.io/Mi-headset-Volume-control-enabler)
