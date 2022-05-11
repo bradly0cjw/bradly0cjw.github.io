@@ -1,11 +1,7 @@
-## 歡迎來到 Bradly0cjw 的黑魔法專區
+## 歡迎來到 Bradly0cjw 的亂搞小屋
 
 view on [bradly0cjw.github.io](https://bradly0cjw.github.io)
 
-## AAS
+## 內容建置中
 
-[Click here](https://github.com/linbei9487/AAS)
-
-## V-backup
-
-[Click here](https://github.com/linbei9487/V-backup)
+Still work in progress [](https://linbei9487.github.io)
