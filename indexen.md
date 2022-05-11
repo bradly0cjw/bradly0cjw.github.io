@@ -1,10 +1,10 @@
 ---
-title: Wellcome to Bradly0cjw's magical place
+title: Welcome to Bradly0cjw's magical place
 layout: homeen
 filename: indexen
 --- 
 
-## Wellcome to Bradly0cjw's magical place
+## Welcome to Bradly0cjw's magical place
 
 So insane wow~
 
