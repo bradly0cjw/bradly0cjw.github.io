@@ -1,3 +1,9 @@
+---
+title: 歡迎來到 Bradly0cjw 的亂搞小屋
+layout: template
+filename: index
+--- 
+
 ## 歡迎來到 Bradly0cjw 的亂搞小屋
 
 在 [githu](https://github.com/bradly0cjw)[b](https://linbei9487.github.io) 上查看

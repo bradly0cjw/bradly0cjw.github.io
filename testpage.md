@@ -1,11 +1,10 @@
 ---
-layout: page
-title: "PAGE TITLE"
-permalink: /test/
-theme: jekyll-theme-cayman
----
-## 歡迎來到 Bradly0cjw 的亂搞小屋test
+title: testpage
+layout: template
+filename: testpage
+--- 
 
+test
 
 在 [githu](https://github.com/bradly0cjw)[b](https://linbei9487.github.io) 上查看
 
