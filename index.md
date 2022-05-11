@@ -1,12 +1,12 @@
 ---
-title: 歡迎來到 Bradly0cjw 的亂搞小屋
-layout: what
+title: 歡迎來到 Bradly0cjw 的神奇小屋
+layout: home
 filename: index
 --- 
 
-## 歡迎來到 Bradly0cjw 的亂搞小屋
+## 歡迎來到 Bradly0cjw 的神奇小屋
 
-在 [githu](https://github.com/bradly0cjw)[b](https://linbei9487.github.io) 上查看
+無敵的吧~
 
 ## 關於我
 ![Pony trot2](img/pony.gif)<br>
