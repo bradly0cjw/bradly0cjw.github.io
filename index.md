@@ -1,10 +1,16 @@
 ## 歡迎來到 Bradly0cjw 的亂搞小屋
 
-view on [bradly0cjw.github.io](https://bradly0cjw.github.io)
+view on [github](https://github.com/bradly0cjw)[.](https://linbei9487.github.io)
 
 ## About me
+![Pony trot2](img/pony.gif)<br>
+Student<br>
+Pronounce: `he/him`<br>
+Call me `Bradly`,`CyberJyun`,`Jyun`,`Wei`<br>
+Digital Art Beginner<br>
+Now learning `Python`<br>
 
-Still work in progress[.](https://linbei9487.github.io)
+
 
 ## Mi9T/K20 AOD 10 sec Enabler
 
