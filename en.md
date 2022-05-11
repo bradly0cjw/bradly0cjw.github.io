@@ -12,11 +12,11 @@ So insane wow~
 
 ## Mi9T/K20 AOD 10 Sec Enabler
 
-[Click here](https://bradly0cjw.github.io/Mi9T-K20-AOD-10-sec-enabler)
+[Click here](https://bradly0cjw.github.io/Mi9T-K20-AOD-10-sec-enabler/en)
 
 ## MI Headset Volume Control Enabler
 
-[Click here](https://bradly0cjw.github.io/Mi-headset-Volume-control-enabler)
+[Click here](https://bradly0cjw.github.io/Mi-headset-Volume-control-enabler/en)
 
 ## ?
 
