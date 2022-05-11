@@ -1,6 +1,6 @@
 ---
 title: 歡迎來到 Bradly0cjw 的亂搞小屋
-layout: template
+layout: what
 filename: index
 --- 
 
