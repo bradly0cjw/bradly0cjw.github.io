@@ -10,7 +10,7 @@ So insane wow~
 
 # List project
 
-## Mi9T/K20 AOD 10 sec Enabler
+## Mi9T/K20 AOD 10 Sec Enabler
 
 [Click here](https://bradly0cjw.github.io/Mi9T-K20-AOD-10-sec-enabler)
 

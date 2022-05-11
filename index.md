@@ -10,7 +10,7 @@ filename: index
 
 # 豐功偉業
 
-## Mi9T/K20 AOD 10 sec Enabler
+## Mi9T/K20 AOD 10 Sec Enabler
 
 [請點此處](https://bradly0cjw.github.io/Mi9T-K20-AOD-10-sec-enabler)
 
