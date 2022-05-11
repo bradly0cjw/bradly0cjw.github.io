@@ -1,6 +1,6 @@
 ---
 title: testpage
-layout: template
+layout: back
 filename: testpage
 --- 
 

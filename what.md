@@ -1,6 +1,6 @@
 ---
 title: 你已進入神秘國度
-layout: template
+layout: back
 filename: what
 --- 
 
