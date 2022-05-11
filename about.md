@@ -8,6 +8,6 @@ filename: about
 ![Pony trot2](img/pony.gif)<br>
 Student<br>
 Pronounce: `he/him`<br>
-Call me `Bradly`,`CyberJyun`,`Jyun`,`Wei`<br>
-Digital Art Beginner<br>
-Now learning `Python`<br>
+請叫我 `Bradly`,`CyberJyun`,`Jyun`,`Wei`<br>
+電腦繪圖初學者<br>
+正在學習 `Python`<br>

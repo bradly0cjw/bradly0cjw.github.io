@@ -1,0 +1,23 @@
+---
+title: Wellcome to Bradly0cjw's magical place
+layout: homeen
+filename: indexen
+--- 
+
+## Wellcome to Bradly0cjw's magical place
+
+So insane wow~
+
+# List project
+
+## Mi9T/K20 AOD 10 sec Enabler
+
+[Click here](https://bradly0cjw.github.io/Mi9T-K20-AOD-10-sec-enabler)
+
+## MI Headset Volume Control Enabler
+
+[Click here](https://bradly0cjw.github.io/Mi-headset-Volume-control-enabler)
+
+## ?
+
+[?](https://bradly0cjw.github.io/0)

@@ -12,11 +12,11 @@ filename: index
 
 ## Mi9T/K20 AOD 10 sec Enabler
 
-[Click here](https://bradly0cjw.github.io/Mi9T-K20-AOD-10-sec-enabler)
+[請點此處](https://bradly0cjw.github.io/Mi9T-K20-AOD-10-sec-enabler)
 
 ## MI Headset Volume Control Enabler
 
-[Click here](https://bradly0cjw.github.io/Mi-headset-Volume-control-enabler)
+[請點此處](https://bradly0cjw.github.io/Mi-headset-Volume-control-enabler)
 
 ## ?
 
