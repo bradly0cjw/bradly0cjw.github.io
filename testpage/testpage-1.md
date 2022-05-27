@@ -9,7 +9,7 @@ test
 在 [githu](https://github.com/bradly0cjw)[b](https://linbei9487.github.io) 上查看
 
 ## 關於我
-![Pony trot2](*/pony.gif)<br>
+![Pony trot2](https://bradly0cjw.github.io/img/pony.gif)<br>
 Student<br>
 Pronounce: `he/him`<br>
 Call me `Bradly`,`CyberJyun`,`Jyun`,`Wei`<br>
