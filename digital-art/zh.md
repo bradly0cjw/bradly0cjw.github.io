@@ -1,10 +1,10 @@
 ---
-title: 關於我
+title: 電腦繪圖
 layout: back
 filename: zh
 --- 
 
-## WORk IN PROGRESS<br>
+## WORK IN PROGRESS<br>
 ### testimage<br>
 ![Pony trot](https://bradly0cjw.github.io/img/pony.gif)<br>
 testtext<br>
