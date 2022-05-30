@@ -1,7 +1,7 @@
 ---
 title: 歡迎來到 Bradly0cjw 的神奇小屋
 layout: home
-filename: mainzh
+filename: zh
 --- 
 
 ## 歡迎來到 Bradly0cjw 的神奇小屋
