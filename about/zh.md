@@ -9,5 +9,5 @@ filename: zh
 Student<br>
 Pronounce: `he/him`<br>
 請叫我 `Bradly`,`CyberJyun`,`Jyun`,`Wei`<br>
-電腦繪圖初學者<br>
+[電腦繪圖](https://bradly0cjw.github.io/digital-art/zh)初學者<br>
 正在學習 `Python`<br>
