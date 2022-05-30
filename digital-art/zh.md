@@ -18,5 +18,5 @@ testtext<br>
 testtext<br>
 
 ### testimage<br>
-![Pony trot](https://bradly0cjw.github.io/img/pony.gif)<br>
+![Pony trot2](https://bradly0cjw.github.io/img/pony2.gif)![Pony trot](https://bradly0cjw.github.io/img/pony.gif)<br>
 testtext<br>
