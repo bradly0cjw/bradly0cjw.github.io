@@ -1,7 +1,7 @@
 ---
 title: Welcome to Bradly0cjw's magical place
 layout: homeen
-filename: mainen
+filename: en
 --- 
 
 ## Welcome to Bradly0cjw's magical place

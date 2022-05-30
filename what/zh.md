@@ -1,7 +1,7 @@
 ---
 title: 你已進入神秘國度
 layout: what
-filename: what
+filename: zh
 --- 
 
 # 你已進入神秘國度

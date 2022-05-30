@@ -1,7 +1,7 @@
 ---
 title:  You have entered mysterious place
 layout: whaten
-filename: whaten
+filename: en
 --- 
 
 # You have entered mysterious place
