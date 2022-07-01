@@ -31,4 +31,4 @@ Now learning `Python`<br>
 [?](https://bradly0cjw.github.io/0)
 <iframe src="https://discord.com/widget?id=845330793542320148&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
-<iframe frameborder="0" height="360" marginheight="0" marginwidth="0" scrolling="no" src="https://vlog.xuite.net/embed/WFhueERzLTUzNjIwNTMuZmx2?ar=0&amp;as=0" width="640"></iframe>
+<iframe allowfullscreen="true" frameborder="0" height="360" marginheight="0" marginwidth="0" scrolling="no" src="https://vlog.xuite.net/embed/WFhueERzLTUzNjIwNTMuZmx2?ar=0&amp;as=0" width="640"></iframe>
