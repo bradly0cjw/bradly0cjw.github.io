@@ -29,3 +29,4 @@ Now learning `Python`<br>
 ## ?
 
 [?](https://bradly0cjw.github.io/0)
+<iframe src="https://discord.com/widget?id=845330793542320148&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
