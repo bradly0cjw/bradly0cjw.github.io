@@ -18,6 +18,9 @@ filename: zh
 
 [請點此處](https://bradly0cjw.github.io/Mi-headset-Volume-control-enabler)
 
+## FAPPC
+[請點此處](https://bradly0cjw.github.io/FAPPC/)
+
 ## ?
 
 [?](https://bradly0cjw.github.io/0)
